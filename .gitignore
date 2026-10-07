@@ -1,0 +1,20 @@
+# R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Generated analysis output
+results/
+
+# Large downloads created by the optional TCGA refresh
+**/gdc_download/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local environment / secrets
+.Renviron
+.env
+.env.*
