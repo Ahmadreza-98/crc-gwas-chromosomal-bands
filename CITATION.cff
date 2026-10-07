@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated article."
+title: "CRC GWAS chromosomal-band analysis"
+type: software
+authors:
+  - family-names: "Siadat"
+    given-names: "Seyed Ahmadreza"
+    orcid: "https://orcid.org/0009-0004-1439-6306"
+license: MIT
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Siadat"
+      given-names: "Seyed Ahmadreza"
+      orcid: "https://orcid.org/0009-0004-1439-6306"
+  title: "The possibility of prognostic and functional values of the 8q24 and 20q13 chromosomal bands in colorectal cancer"
+  journal: "Molecular Biology Research Communications"
+  year: 2026
+  volume: 15
+  issue: 1
+  start: 3
+  end: 10
+  doi: "10.22099/mbrc.2025.54114.2202"
